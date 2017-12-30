@@ -19,17 +19,17 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/kapT0' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/AWprlxe.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I cannot drag the segmented bar in the settings view control. And I go through it again found that I do not set the class name.
 
 ## License
 
-Copyright [yyyy] [name of copyright owner]
+Copyright [2017] [Lixuan Lang]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
